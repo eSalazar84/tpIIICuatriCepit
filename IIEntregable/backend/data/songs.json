@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Shape of You",
+        "duration": 235,
+        "artist": "Ed Sheeran",
+        "coverAlbum": "https://i1.sndcdn.com/artworks-hHRNAPyoL1gTPNV7-mUwz9A-t500x500.jpg",
+        "video": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+    },
+    {
+        "id": 2,
+        "title": "Rolling in the Deep",
+        "duration": 228,
+        "artist": "Adele",
+        "coverAlbum": "https://i1.sndcdn.com/artworks-000102426886-jjbupk-t500x500.jpg",
+        "video": "https://www.youtube.com/watch?v=rYEDA3JcQqw"
+    },
+    {
+        "id": 3,
+        "title": "Uptown Funk",
+        "duration": 271,
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "coverAlbum": "https://upload.wikimedia.org/wikipedia/en/a/a7/Mark_Ronson_-_Uptown_Funk_%28feat._Bruno_Mars%29_%28Official_Single_Cover%29.png",
+        "video": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+        "id": 4,
+        "title": "Despacito",
+        "duration": 228,
+        "artist": "Luis Fonsi ft. Daddy Yankee",
+        "coverAlbum": "https://cdns-images.dzcdn.net/images/cover/ba4529d7fcc4ddb6522ec79a443e216e/500x500.jpg",
+        "video": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+    },
+    {
+        "id": 5,
+        "title": "Billie Jean",
+        "duration": 293,
+        "artist": "Michael Jackson",
+        "coverAlbum": "https://static.stereogum.com/uploads/2020/07/Michael-Jackson-Billie-Jean-1593711568.jpg",
+        "video": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"
+    },
+    {
+        "id": 6,
+        "title": "Someone Like You",
+        "duration": 285,
+        "artist": "Adele",
+        "coverAlbum": "https://upload.wikimedia.org/wikipedia/en/7/7a/Adele_-_Someone_Like_You.png",
+        "video": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    },
+    {
+        "id": 7,
+        "title": "Bohemian Rhapsody",
+        "duration": 354,
+        "artist": "Queen",
+        "coverAlbum": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+        "video": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+    },
+    {
+        "id": 8,
+        "title": "Can't Stop the Feeling!",
+        "duration": 236,
+        "artist": "Justin Timberlake",
+        "coverAlbum": "https://i.pinimg.com/originals/75/84/43/75844326add1f9b5e8b7fabc52aa3e59.png",
+        "video": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+    },
+    {
+        "id": 9,
+        "title": "Hello",
+        "duration": 295,
+        "artist": "Lionel Richie",
+        "coverAlbum": "https://upload.wikimedia.org/wikipedia/en/9/9e/Lionel_Richie_Hello.jpg",
+        "video": "https://www.youtube.com/watch?v=mHONNcZbwDY"
+    },
+    {
+        "id": 10,
+        "title": "Thinking Out Loud",
+        "duration": 281,
+        "artist": "Ed Sheeran",
+        "coverAlbum": "https://i1.sndcdn.com/artworks-000102864051-o1akzp-t500x500.jpg",
+        "video": "https://www.youtube.com/watch?v=lp-EO5I60KA"
+    }
+]
