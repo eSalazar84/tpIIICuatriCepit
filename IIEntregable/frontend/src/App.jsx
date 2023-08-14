@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import Cards from './components/Cards'
 import { getSongs } from './api/getSongs';
 import './App.css'
+import Header from './components/Header';
 
 function App() {
   const [songs, setSongs] = useState([]);
@@ -19,9 +20,12 @@ function App() {
 
   return (
     <>
-      {
-        songs.map(sng => <Cards song={sng} key={sng.id} />)
-      }
+      <Header />
+      <section className='layout'>
+        {
+          songs.map(sng => <Cards song={sng} key={sng.id} />)
+        }
+      </section>
     </>
   )
 }
