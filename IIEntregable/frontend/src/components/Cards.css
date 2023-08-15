@@ -1,5 +1,5 @@
 .box-container {
-    width: 20%;
+    width: 200px;
     border: 1px solid black;
     padding: 1%;
     background-color: var(--clr3);
@@ -21,16 +21,15 @@
     margin: 10px;
 }
 
-.box-container-body {
+.box-container {
     transition: transform ease-out 1000ms;
     transform-origin: center;
 }
 
-.box-container-body:hover {
+.box-container:hover {
     transform: scale(1.07)
 }
 
-.box-container-body:hover :first-child::after {
-    content: ' *';
+.box-container:hover :first-child::after {
     color: rgb(46, 44, 44)
 }

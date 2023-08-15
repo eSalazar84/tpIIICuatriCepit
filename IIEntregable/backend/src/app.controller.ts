@@ -7,7 +7,7 @@ export class SongsController {
 
   @Get()
   getSongs(@Res() res: Response) {
-    const songs = join(__dirname, '../data/songs.json');
+    const songs = join(__dirname, '..', './data/songs.json');
     res.sendFile(songs);
   }
 }
